@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/codetoreason/.github/blob/main/profile/ChatGPT%20Image%2010%20kwi%202025%20o%2021_33_12.png" alt="Code to Reason" />
+</p>
+
 # Code to Reason
 
 > Business-Oriented Programming · Test-Driven Culture
