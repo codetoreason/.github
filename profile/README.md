@@ -17,7 +17,7 @@ Welcome to the GitHub home of Code to Reason — a space for developers who care
 
 ## 👤 Created by
 
-[Mateusz Aleksandrowicz](https://github.com/mateusz-aleksandrowicz)  
+[Mateusz Aleksandrowicz](https://github.com/maleksandrowicz93)  
 Senior Java Developer with a passion for DDD, software craftsmanship and team mentoring.
 
 ## 🌐 Official website
