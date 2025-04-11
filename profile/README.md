@@ -6,9 +6,9 @@ Welcome to the GitHub home of Code to Reason — a space for developers who care
 
 ## 💡 What’s inside?
 
-- 🧠 Domain modeling patterns
-- 🧪 Testing strategies
-- 🏗️ Modular and scalable architecture examples
+- 🧩 Domain modeling patterns
+- 🏗️ Modular architecture examples
+- ✅ Testing strategies
 - 🎓 Materials for talks, workshops, mentoring
 
 ## 👤 Created by
