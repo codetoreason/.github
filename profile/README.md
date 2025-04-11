@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/codetoreason/.github/blob/main/profile/code_to_reason_banner.png" alt="Code to Reason" />
+  <img src="https://github.com/codetoreason/.github/blob/main/profile/code_to_reason_banner.png" alt="Code to Reason" width="80%" />
 </p>
 
 # Code to Reason
